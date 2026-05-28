@@ -1,0 +1,22 @@
+*{background-color: pink;}
+
+h1,h2,h3{
+    color:rgb(182, 5, 5)
+}
+
+a{
+color:black
+}
+
+#yayText{
+    text-align: center;
+}
+
+#cuntyGif{
+    
+}
+
+.topic{
+    color:aliceblue;
+    background-color: rgb(182, 5, 5)
+}
